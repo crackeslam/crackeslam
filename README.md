@@ -2,7 +2,7 @@
 - 👀 I’m interested in Termuex codes
 - 🌱 I’m currently learning php and Java script
 - 💞️ I’m looking to collaborate on expert on developing 
-- 📫 How to reach me 
+- 📫 How to reach me : blackbounc8@gmail.com 
 
 <!---
 crackeslam/crackeslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
